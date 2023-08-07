@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Guilherme Araujo 👋
+Estudo Engenharia da Computação na UFMA 
 
 <div align="center">
   <a href="https://github.com/guilherme4raujo">
