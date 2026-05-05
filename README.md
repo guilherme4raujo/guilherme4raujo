@@ -1,13 +1,20 @@
 <h1>Hi, I'm Guilherme Araujo! <br/><a href="https://www.linkedin.com/in/guilherme-araujo-5ba745219/">Computer Engineering Student</a> and <a href="https://www.linkedin.com/in/guilherme-araujo-5ba745219/">Cybersecurity Professional</a></h1>
+  <h2> Education background :</h2>
 
+  - <b>Information Security Technician - SENAC</b>
+
+  - <b>Bachelor of Science and Technology - UFMA</b>
+  
+  - <b>Bachelor's Degree in Computer Engineering- UFMA</b>
+  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>LABs Hack the box</b>
   - [write-ups ](https://github.com/guilherme4raujo/LABs-Hack-the-box)
-- <b>Investigação Forense Digital com Zeek e Zeek-cut</b>
-  - [Detecção e Resposta a Incidentes](https://www.linkedin.com/feed/update/urn:li:activity:7316273987074842625/)
-- <b>Análise Forense Digital com Autopsy</b>
-  - [Desvendando Evidências](https://www.linkedin.com/feed/update/urn:li:activity:7320161258077323264/) 
+- <b>Digital Forensic Investigation with Zeek and Zeek-cut</b>
+  - [Incident Detection and Response](https://www.linkedin.com/feed/update/urn:li:activity:7316273987074842625/)
+- <b>Digital Forensic Analysis with Autopsy</b>
+  - [Uncovering Evidence](https://www.linkedin.com/feed/update/urn:li:activity:7320161258077323264/) 
 
 
 <h2>📺 Courses and Certifications</h2>
